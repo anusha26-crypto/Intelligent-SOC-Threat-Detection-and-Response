@@ -1,0 +1,10 @@
+timestamp,source_ip,username,event_type,status
+28-10-2026 09:01,192.0.2.10,student,login,success
+28-10-2026 09:02,198.51.100.23,admin,login,failed
+28-10-2026 09:02,198.51.100.23,admin,login,failed
+28-10-2026 09:02,198.51.100.23,admin,login,failed
+28-10-2026 09:02,198.51.100.23,admin,login,failed
+28-10-2026 09:02,198.51.100.23,admin,login,failed
+28-10-2026 09:05,203.0.113.7,analyst,malware_detected,alert
+28-10-2026 09:08,192.0.2.15,guest,login,success
+28-10-2026 09:10,203.0.113.9,operator,unauthorized_access,alert
